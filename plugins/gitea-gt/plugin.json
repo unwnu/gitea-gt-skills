@@ -1,0 +1,11 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "gitea-gt",
+  "version": "0.1.0",
+  "description": "Use the Gitea gt CLI for repository and collaboration workflows.",
+  "extensions": {
+    "com.openai": {
+      "requires_local_executor": true
+    }
+  }
+}

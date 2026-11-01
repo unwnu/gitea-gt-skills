@@ -1,0 +1,9 @@
+{
+  "name": "gitea-gt",
+  "version": "0.1.0",
+  "description": "Use the Gitea gt CLI for repository and collaboration workflows.",
+  "author": {
+    "name": "Contributors"
+  },
+  "license": "MIT"
+}
