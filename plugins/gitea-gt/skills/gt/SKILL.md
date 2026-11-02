@@ -33,5 +33,3 @@ If the target repository is unclear, read `gt repo view --json full_name,url,pri
 Do not print tokens or secret values. Do not disable TLS verification to bypass an error. For SSH-signature login, select SSH for Git. If the Git SSH host differs from the API host, set the instance `ssh_host`.
 
 After a write, read the changed resource and report its URL or ID and observed state. A later failure can occur after creation, so do not claim that a failed command changed nothing.
-
-Use the [gt manual](https://docs.gitea.com/cli/) for current behavior. The [Gitea MCP tool list](https://pkg.go.dev/gitea.com/gitea/gitea-mcp#hdr-Available_Tools) maps resource operations, but its tool names are not `gt` commands.

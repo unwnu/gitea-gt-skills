@@ -1,6 +1,6 @@
 {
   "name": "gitea-gt",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Use Gitea's gt CLI for repositories, issues, pull requests, releases, and Actions.",
   "author": {
     "name": "unwnu"
