@@ -1,7 +1,7 @@
 {
   "name": "gitea-gt-skills",
   "interface": {
-    "displayName": "Gitea gt skills"
+    "displayName": "Gitea gt"
   },
   "plugins": [
     {

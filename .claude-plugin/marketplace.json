@@ -1,14 +1,14 @@
 {
   "name": "gitea-gt-skills",
-  "description": "Skills for the Gitea gt CLI",
+  "description": "One skill for the Gitea gt CLI",
   "owner": {
-    "name": "Contributors"
+    "name": "unwnu"
   },
   "plugins": [
     {
       "name": "gitea-gt",
       "source": "./plugins/gitea-gt",
-      "description": "Use Gitea gt from Claude Code"
+      "description": "Use the Gitea gt CLI from Claude Code"
     }
   ]
 }

@@ -1,9 +1,10 @@
 {
   "name": "gitea-gt",
   "version": "0.1.0",
-  "description": "Use the Gitea gt CLI for repository and collaboration workflows.",
+  "description": "Use Gitea's gt CLI for repositories, issues, pull requests, releases, and Actions.",
   "author": {
-    "name": "Contributors"
+    "name": "unwnu"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/unwnu/gitea-gt-skills"
 }
